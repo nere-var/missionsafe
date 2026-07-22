@@ -22,7 +22,20 @@ When the City of San Antonio opens dynamic emergency shelters, finding accurate,
 
 ---
 
+## Installation and Required Dependencies
+### 1. Navigate to the repository directory (ex: C:\Users\example\documents)
+### 2. Install required dependencies
+You can do this using `C:\Python314\python.exe -m pip install -r requirements.txt`
+### 3. Configure API Credentials
+Create a .env file in the root directory of your project folder (where app.py lives) and add your Gemini API key. 
+`GEMINI_API_KEY=your_actual_api_key_here`
+### 4. Launch the Application
+Start the Streamlit application using Python's module launcher:
+`C:\Python314\python.exe -m streamlit run app.py`
+
+---
+
 ## Streamlit App Preview
 <img width="1296" height="1122" alt="image" src="https://github.com/user-attachments/assets/6329949f-7ecc-4c4b-8d89-8c2bdbf97731" />
 
-## Installation and Required Dependencies
+---
