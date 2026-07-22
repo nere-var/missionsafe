@@ -19,3 +19,5 @@ When the City of San Antonio opens dynamic emergency shelters, finding accurate,
 *   **Data Processing:** Pandas (programmatic offline filtering)
 *   **Generative AI Layer:** Modern `google-genai` SDK using the `gemini-3.1-flash-lite` engine
 *   **Data Registry:** Localized, static CSV database (`local.csv`)
+
+## Installation and Required Dependencies
