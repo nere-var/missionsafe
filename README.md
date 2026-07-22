@@ -20,4 +20,9 @@ When the City of San Antonio opens dynamic emergency shelters, finding accurate,
 *   **Generative AI Layer:** Modern `google-genai` SDK using the `gemini-3.1-flash-lite` engine
 *   **Data Registry:** Localized, static CSV database (`local.csv`)
 
+---
+
+## Streamlit App Preview
+<img width="1296" height="1122" alt="image" src="https://github.com/user-attachments/assets/6329949f-7ecc-4c4b-8d89-8c2bdbf97731" />
+
 ## Installation and Required Dependencies
